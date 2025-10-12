@@ -1,3 +1,10 @@
+// Facebook
+// Google
+// Adobe
+// Bloomberg
+// Coursera
+// Amazon
+
 #include <bits/stdc++.h>
 using namespace std;
 
