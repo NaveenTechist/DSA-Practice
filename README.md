@@ -43,5 +43,7 @@ If you like something or spot improvement points — feel free to open an issue 
 📫 Want to connect?
 
 Portfolio: [naveenyarramsetti.netlify.app](https://naveenyarramsetti.netlify.app/)
+
 GitHub: [github.com/NaveenTechist](https://github.com/NaveenTechist)
+
 LinkedIn: [linkedin.com/in/naveen-yarramsetti](https://www.linkedin.com/in/naveen-yarramsetti)
