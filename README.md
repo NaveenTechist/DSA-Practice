@@ -1,5 +1,10 @@
-# 📘 Data Structures & Algorithms – Practice Repo
-
-This repository contains my solutions for practicing **DSA problems** in C++.
-
-
+📚 Data Structures & Algorithms – Practice Repository
+Welcome! I’m Naveen Yarramsetti, a dedicated B.Tech IT student and budding Full-Stack (Frontend) Developer. This repository captures my journey through the world of DSA — where I transformed from a beginner into someone building real logic, solving problems and refining my code craft.
+Why this repo exists: I created this repository to practice core algorithms, data structures, recursion, sorting, arrays, and basic math problems; to track my daily coding habit and consistent progress; to build clarity around logic, complexity, edge cases, and how to structure solutions; and to serve as a reference portfolio for recruiters, collaborators, and myself.
+What you’ll find here: Arrays – solutions covering array manipulations, search, maximum/minimum, prefix/suffix logic. Basic Math Problems – problems involving digits, factorials, primes, combinatorics. Recursion – recursive patterns like backtracking, divide & conquer, tree-style logic. Sorting – various sorting techniques implemented (selection, insertion, merge, quick, etc.). More topics like Graphs, Trees, and Dynamic Programming will be added soon.
+Technologies & Tools: C++ (100% of this repo), Git & GitHub, VS Code with extensions, clean code practices, meaningful comments, readability, and edge-case handling.
+Learning Outcomes: Strengthened ability to break big problems into smaller chunks, gained fluency with time & space complexity analysis, built confidence in solving algorithmic problems under constraints, and developed a habit of daily practice and consistency.
+Track Record: Maintained a coding streak of 600+ days, completed 75%+ of courses like “Build Your Own Dynamic Web Application,” “JavaScript Essentials,” and “React JS – Getting Started.” Built and shared full-stack web projects (links in my portfolio) to complement core DSA learning.
+How to Use: Browse folders by topic (Arrays, Recursion, Sorting, etc.), read through comments & logic, adapt the approach for similar problems, and contribute improvements if desired.
+Connect: Portfolio – naveenyarramsetti.netlify.app | GitHub – github.com/NaveenTechist | LinkedIn – linkedin.com/in/naveen-yarramsetti
+Thanks for visiting my repository! I hope this repo reflects my growth and inspires others to stay consistent and keep improving in their coding journey. — Naveen Yarramsetti
