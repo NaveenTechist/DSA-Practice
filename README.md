@@ -1,44 +1,49 @@
-📚 Data Structures & Algorithms – Practice Repository
+# 🧠 DSA Practice (C++)
 
-Welcome! I’m Naveen Yarramsetti, a dedicated B.Tech IT student and budding MERN-Stack Developer. This repository captures my journey through the world of DSA — where I transformed from a beginner into someone building real logic, solving problems and refining my code craft.
+## 🚀 Overview
+This repository contains my learning and practice of **Data Structures and Algorithms (DSA)** using **C++**.  
+Each topic is organized into folders for clarity and easy navigation.
 
-🛠 Why this repo exists
-In my learning-path I realised: theoretical knowledge is good, but applying it on actual problems is what builds competence. So I created this repo to:
-Practice core algorithms, data structures, recursion, sorting, arrays, basic math problems
-Track my daily coding habit and consistent progress
-Build clarity around logic, complexity, edge cases, and how to structure solutions
-Serve as a reference portfolio for recruiters, collaborators and myself
+---
 
-✅ What you’ll find here
-Category	Description
-Arrays	Solutions covering array manipulations, search, maximum/minimum, prefix/suffix logic
-Basic Math Problems	Problems involving digits, factorials, primes, combinatorics
-Recursion	Recursive patterns: backtracking, divide & conquer, tree-style logic
-Sorting	Various sorting techniques implemented (selection, insertion, merge, quick…)
-… and more	This is a growing list — expect Graphs, Trees, DP, Advanced Topics soon
+## 📂 Folder Structure
+| Topic | Description |
+|--------|--------------|
+| 🔸 Arrays | Basic array operations, searching, and manipulation |
+| 🔸 Sorting | Implementation of sorting algorithms (Bubble, Selection, Insertion, etc.) |
+| 🔸 Recursion | Recursive logic and problem-solving patterns |
+| 🔸 Basic Math | Mathematical logic problems like GCD, Prime Check, etc. |
+| 🔸 Coming Soon | Trees, Graphs, and Dynamic Programming |
 
-🧑‍💻 Technologies & Tools
-Language: C++ (100% of this repo)
-Version control: Git & GitHub
-IDE/Editor: VS Code + Extensions
-Practices: Clean code, meaningful comments, readability, edge-case handling
+---
 
-🎯 My Learning Outcomes
-Strengthened ability to break big problems into smaller chunks
-Gained fluency with time & space complexity analysis
-Built confidence in solving algorithmic problems under constraints
-Developed a lifelong habit of daily practice and consistency
+## 🏷️ File Naming Convention
+- Each program file follows a **concept-based naming pattern**.  
+- 🔹 If a file name contains **"ASKED"**, it means the problem or concept was **asked by top tech companies** like Amazon, Google, or Microsoft.
 
-📈 My Track Record
-Maintained a coding streak of 690+ days, demonstrating discipline & commitment
-Completed 75%+ of courses like “Build Your Own Dynamic Web Application”, “JavaScript Essentials”, “React JS – Getting Started” (as part of my growth path)
-Built and shared full-stack web projects (links in my portfolio) to complement core DSA learning
+---
 
-🔍 How to Use This Repo
-Browse folders by topic (Arrays, Recursion, Sorting…)
-Inspect the solution file, read through comments & logic
-Adapt the approach when you face similar problems
-If you like something or spot improvement points — feel free to open an issue or comment
+## 💻 Tech Stack
+- **Language:** C++  
+- **Compiler:** GCC / CodeRunner / VS Code  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🎯 Learning Goals
+- Strengthen problem-solving skills  
+- Build confidence for coding interviews  
+- Master core DSA concepts before moving to advanced topics  
+
+---
+
+## 🏆 Achievements
+Maintained a **Coding Streak of 690+ Days**, showing consistency, dedication, and continuous learning progress.
+
+---
+
+
+
 
 📫 Want to connect?
 
@@ -47,3 +52,7 @@ Portfolio: [naveenyarramsetti.netlify.app](https://naveenyarramsetti.netlify.app
 GitHub: [github.com/NaveenTechist](https://github.com/NaveenTechist)
 
 LinkedIn: [linkedin.com/in/naveen-yarramsetti](https://www.linkedin.com/in/naveen-yarramsetti)
+
+## ⭐ Contributions Welcome
+Feel free to fork, explore, and suggest improvements.  
+This repository is built to grow through continuous problem-solving and learning.
