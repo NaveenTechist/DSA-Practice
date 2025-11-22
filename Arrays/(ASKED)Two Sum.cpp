@@ -1,3 +1,13 @@
+// Companies
+// Visa
+// Oracle
+// Walmart
+// Apple
+// Amazon
+// Google
+// Microsoft
+// Bloomberg
+
 #include <bits/stdc++.h>
 using namespace std;
 
