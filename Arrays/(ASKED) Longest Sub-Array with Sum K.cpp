@@ -36,3 +36,25 @@ public:
         return large_sub_arr > 0 ? large_sub_arr : 0;
     }
 };
+// Another One 
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class solution{
+public:
+    int longestSubarrayWithSumK(int arr[], int n, int k){
+        int large_sub_arr = 0;
+        for(int i = 0; i < n-1; i++){
+            int length_of_array = 0;
+            int sum_var = 0;
+            for(int j = i; j < n; j++){
+               sum_var += arr[j];
+               length_of_array++;
+               if(sum_var == k) if(large_sub_arr < length_of_array) large_sub_arr = length_of_array;
+            }
+        }
+        return large_sub_arr;
+    }
+};
+
