@@ -15,5 +15,22 @@ class solution{
             }
         }
         return count;
+
+        //  int i =0, j =0;
+        // int count = 0, preCount = 0;
+        // while(j < arr.size())
+        // {
+        //     if(arr[j] > maxBound)
+        //     {
+        //         preCount = 0;
+        //         i = j + 1;
+        //     }else if (minBound <= arr[j] && arr[j] <= maxBound) 
+        //     {
+        //         preCount = j - i + 1;
+        //     }
+        //     count += preCount;
+        //     j++;
+        // }
+        // return count;
     }
 };
